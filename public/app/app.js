@@ -1,0 +1,1 @@
+var app = angular.module('employeeRecords', []).constant('API_URL', 'http://www.php.dev/api/v1/'); 
