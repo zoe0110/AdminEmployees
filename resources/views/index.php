@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" ng-app="employeeRecords">
     <head>
-        <title>Laravel 5 AngularJS Demo2</title>
+        <title>Employee Management</title>
 
         <!-- Load Bootstrap CSS -->
         <link href="<?= asset('css/bootstrap.css') ?>" rel="stylesheet">
